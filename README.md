@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo(a)! 👋  
 
-## Prazer, eu sou o Henrique Ribeiro  
+## Prazer, eu sou o Ribeiro  
 
 ### 👨‍💻 Gestor de Segurança | Analista de TI | Pesquisador Acadêmico  
 
