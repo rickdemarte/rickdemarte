@@ -6,7 +6,8 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/seu-usuario)](https://github.com/rickdemarte)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ribeirofloripabr)](https://www.linkedin.com/in/ribeirofloripabr/)
-[![GMail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:git@ribeiro.floripa.br)](mailto:git@ribeiro.floripa.br)  
+[![GMail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:git@ribeiro.floripa.br)](mailto:git@ribeiro.floripa.br)
+[![Lattes Badge](https://img.shields.io/badge/-Lattes-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=http://lattes.cnpq.br/6777249984148781)](http://lattes.cnpq.br/6777249984148781)
 
 
 ---
