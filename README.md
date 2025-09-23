@@ -6,7 +6,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/seu-usuario)](https://github.com/rickdemarte)  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin/)](kedin.com/in/ribeirofloripabr/)  
-[![Mail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@dominio.com)](mailto:git@ribeiro.floripa.br)  
+[![GMail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@dominio.com)](mailto:git@ribeiro.floripa.br)  
 
 
 ---
