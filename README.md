@@ -43,13 +43,3 @@ Especializado em **Governança, Segurança da Informação e Gestão de Processo
 > "Tecnologia é ferramenta, mas o diferencial está nas pessoas que aprendem, compartilham e constroem juntas."  
 
 ---
-
-<p align="center">
-  <a href="https://github.com/seu-usuario">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickdemarte&layout=compact&theme=dark"/>
-  </a>  
-  <br>
-  <a href="https://github.com/seu-usuario">
-    <img src="https://github-readme-stats.vercel.app/api?username=rickdemarte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-</p>  
